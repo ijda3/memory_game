@@ -64,7 +64,7 @@ public class MatchGameActivity extends AppCompatActivity {
             if (winner == null) {
                 builder.setMessage("Partida empatada!");
             } else {
-                builder.setMessage(String.format("%s venceu!", game.getWinner()));
+                builder.setMessage(String.format("%s venceu!", winner));
             }
 
             builder.setPositiveButton(R.string.new_game, new DialogInterface.OnClickListener() {
