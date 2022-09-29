@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jogo da Memória</string>
+    <string name="new_game">Novo game</string>
+    <string name="retry_game">Jogar novamente</string>
+</resources>

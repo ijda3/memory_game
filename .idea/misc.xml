@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.15167865707434053" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable/ic_file_3.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable/pokemon_1.xml" value="0.1385" />
+        <entry key="app/src/main/res/drawable/pokemon_11.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable/pokemon_12.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable/pokemon_15.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable/pokemon_18.xml" value="0.1385" />
+        <entry key="app/src/main/res/drawable/pokemon_5.xml" value="0.1395" />
+        <entry key="app/src/main/res/layout-land/view_match_game_item.xml" value="0.27998236331569665" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2767210144927536" />
+        <entry key="app/src/main/res/layout/activity_match_game.xml" value="0.2767210144927536" />
+        <entry key="app/src/main/res/layout/view_match_game_item.xml" value="0.23629700557026678" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
